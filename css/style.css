@@ -1,0 +1,16 @@
+.cart_table_item,.cart_item{display:none;}
+
+.woocommerce table.cart img, .woocommerce-page table.cart img, .woocommerce #content table.cart img, .woocommerce-page #content table.cart img {
+    width: 109px !important;
+}
+.re_edit{
+    background: -moz-linear-gradient(center top , #AD74A2 0px, #96588A 100%) repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    border-color: #76456C !important;
+	color: #FFFFFF !important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.6) !important;
+	padding: 3px 10px !important;
+	margin-left:12% !important;
+}
+.variation{
+   display:none !important;
+}
